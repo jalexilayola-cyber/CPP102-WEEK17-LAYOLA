@@ -1,4 +1,3 @@
-
 # Simulated Device Monitoring and Alert System
 
 **Student Name:** Layola, Jahzeel Alexi

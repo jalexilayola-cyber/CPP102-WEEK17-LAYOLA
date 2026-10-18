@@ -1,8 +1,3 @@
-
-# Simulated Device Monitoring and Alert System
-# CPP102 - Laboratory Exercise 17
-
-
 def get_initial_readings():
     """Return the initial list of temperature readings."""
     return [28, 31, 35, 37, 29]
